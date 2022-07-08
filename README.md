@@ -85,3 +85,17 @@ You can also render Mueller matrix components with the keyboard numberpad input.
 ```
 The 0 key in the numberpad resets the viewer to the original capture setting again.   
 You can also switch your view to a normal map and a rendering image. Key 1 is for the rendering image, and key 2 is for the normal image.
+
+## BibTex
+```BibTeX
+@Article{Ellipsometry:SIG:2022,
+  author  = {Inseung Hwang and Daniel S. Jeon and Adolfo Muñoz and 
+             Diego Gutierrez and Xin Tong and Min H. Kim},
+  title   = {Sparse Ellipsometry: Portable Acquisition of Polarimetric
+             SVBRDF and Shape with Unstructured Flash Photography},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH 2022)},
+  year    = {2022},
+  volume  = {41},
+  number  = {4},
+  }    
+```
