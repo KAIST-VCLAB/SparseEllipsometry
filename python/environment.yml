@@ -1,0 +1,9 @@
+name: pbrdf
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - pyopengl
+prefix: C:\Users\VCLAB\anaconda3\envs\pbrdf
