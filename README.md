@@ -1,4 +1,17 @@
 # Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography
+### [Project page](http://vclab.kaist.ac.kr/siggraph22p1.html) | [Paper](http://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-main-final.pdf) | [Supplemental document](http://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-supple-final.pdf) | [Presentation](http://vclab.kaist.ac.kr/siggraph2022p1/Sparse_elipsometry_slides.pdf)
+
+[Inseung Hwang](http://vclab.kaist.ac.kr/ishwang/),
+[Daniel S. Jeon](https://edoli.github.io/research/),
+[Adolfo Muñoz](http://adolfo-munoz.com/),
+[Diego Gutierrez](http://giga.cps.unizar.es/~diegog/),
+[Xin Tong](https://www.microsoft.com/en-us/research/people/xtong/),
+[Min H. Kim](http://vclab.kaist.ac.kr/minhkim/)
+<br>
+KAIST, Microsoft Research Asia, Universidad de Zaragoza - I3A
+<br>
+In this repository, we provide the code for the paper 'Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography'
+, reviewed and presented at **SIGGRAPH 2022**.
 
 ## Contents
 1. Spatially-varying pBRDF and shape reconstruction algorithm - MATLAB
