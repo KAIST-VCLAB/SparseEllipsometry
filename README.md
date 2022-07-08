@@ -1,6 +1,6 @@
 # Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography
 
-### [Project page](http://vclab.kaist.ac.kr/siggraph22p1.html) | [Paper](http://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-main-final.pdf) | [Supplemental document](http://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-supple-final.pdf) | [Presentation](http://vclab.kaist.ac.kr/siggraph2022p1/Sparse_elipsometry_slides.pdf) | [Dataset for demo](https://drive.google.com/file/d/1tUBBEPPEB-n-s6lzViG63gmp9vZpIoOq/view?usp=sharing)
+### [Project page](https://vclab.kaist.ac.kr/siggraph2022p1/index.html) | [Paper](http://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-main-final.pdf) | [Supplemental document](http://vclab.kaist.ac.kr/siggraph2022p1/paper-acmtog-supple-final.pdf) | [Presentation](http://vclab.kaist.ac.kr/siggraph2022p1/Sparse_elipsometry_slides.pdf) | [Dataset for demo](https://drive.google.com/file/d/1tUBBEPPEB-n-s6lzViG63gmp9vZpIoOq/view?usp=sharing)
 
 
 
