@@ -12,6 +12,7 @@ KAIST, Microsoft Research Asia, Universidad de Zaragoza - I3A
 <br>
 In this repository, we provide the code for the paper 'Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography'
 , reviewed and presented at **SIGGRAPH 2022**.
+![teaser](teaser.png)
 
 ## Contents
 1. Spatially-varying pBRDF and shape reconstruction algorithm - MATLAB
