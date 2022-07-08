@@ -11,7 +11,7 @@ Warranty: KAIST-VCLAB MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILI
 ----------------------------------------------
 
 Sparse Ellipsometry
-Copyright (c) 2022 by Hyeonjoong Jang, Andreas Meuleman, Dahyun Kang, Donggun Kim, and Min H. Kim
+Copyright (c) 2022 by Inseung Hwang, Daniel S. Jeon, and Min H. Kim
 
 Sparse Ellipsometry is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
